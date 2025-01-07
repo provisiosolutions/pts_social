@@ -72,7 +72,7 @@
         "patchLevel": {
             "drupal/core": "-p2"
         },
-        "enable-patching": false
+        "enable-patching": true
     },
     "autoload": {
         "classmap": ["upstream-configuration/scripts/ComposerScripts.php"]
